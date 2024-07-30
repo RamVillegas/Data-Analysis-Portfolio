@@ -12,7 +12,11 @@ My CV in [pdf](https://github.com/user-attachments/files/16430607/Ram.Villegas.-
 
 ## Table of Contents
 • [About](https://github.com/RamVillegas/Data-Analysis-Portfolio/edit/main/README.md#L3)
+
 • Portfolio Projects
+
 • Education
+
 • Certificates
+
 • Contact
