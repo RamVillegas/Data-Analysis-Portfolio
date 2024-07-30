@@ -11,4 +11,4 @@ Where I am with working independently or with a team, I am excited and driven by
 My CV in [pdf](https://github.com/user-attachments/files/16430607/Ram.Villegas.-.CV.2024.pdf)
 
 ## Table of Contents
-[About]((https://github.com/RamVillegas/Data-Analysis-Portfolio/edit/main/README.md=#1L3))
+[About](https://github.com/RamVillegas/Data-Analysis-Portfolio/edit/main/README.md#L3)
