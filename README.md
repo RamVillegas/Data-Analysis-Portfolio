@@ -8,8 +8,7 @@ I started my journey through Google Data Analytics professional certificate. Dur
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always proactively looking for opportunities to hone my skills and expand my knowledge.
 Where I am with working independently or with a team, I am excited and driven by the thrill of discovering new insights and the satisfaction of helping the company/organization make better decision through data.
 
-My CV in [Ram Villegas - CV 2024.pdf](https://github.com/user-attachments/files/16430607/Ram.Villegas.-.CV.2024.pdf)
- [Ram Villegas - CV 2024.pdf](https://github.com/user-attachments/files/16430607/Ram.Villegas.-.CV.2024.pdf)
+My CV in [pdf](https://github.com/user-attachments/files/16430607/Ram.Villegas.-.CV.2024.pdf)
 
 ## Table of Contents
 Ab
