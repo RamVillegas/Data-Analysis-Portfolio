@@ -15,10 +15,15 @@ My CV in [pdf](https://github.com/user-attachments/files/16430607/Ram.Villegas.-
 
 • Portfolio Projects
   ○ Phyton
+  
   ○ SQL
+  
   ○ Excel / Google Sheets
+  
   ○ Tableau
+  
   ○ Power BI
+  
 • Education
 
 • Certificates
