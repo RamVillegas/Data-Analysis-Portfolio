@@ -16,7 +16,7 @@ My CV in [pdf](https://github.com/user-attachments/files/16430607/Ram.Villegas.-
 • Portfolio Projects
 
    ■ Phyton
-  [Covid-19 Data Analysis](url)
+  [Covid-19 Data Analysis](https://github.com/RamVillegas/Porfolio-Projects/blob/main/Covid-19%20Data%20Analysis.ipynb)
 
  
    ■ SQL
