@@ -14,15 +14,16 @@ My CV in [pdf](https://github.com/user-attachments/files/16430607/Ram.Villegas.-
 • [About](https://github.com/RamVillegas/Data-Analysis-Portfolio/edit/main/README.md#L3)
 
 • Portfolio Projects
-  • Phyton
+
+  ■ Phyton
   
-  ○ SQL
+  ■ SQL
   
-  ○ Excel / Google Sheets
+  ■ Excel / Google Sheets
   
-  ○ Tableau
+  ■ Tableau
   
-  ○ Power BI
+  ■ Power BI
   
 • Education
 
